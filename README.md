@@ -1,8 +1,10 @@
 # Mobiles-Sales-Dashboard-Power-Bi
-#📌Project Objectives
+## 📌Project Objectives\
+
 This project presents an interactive Power BI dashboard that analyzes mobile phone sales across different brands, cities, and time periods. The goal is to help businesses understand their sales performance, identify trends, and make data-driven decisions.
 
-#🎯Objectives
+## 🎯Objectives
+
 To clean, transform raw mobile sales data.
 
 To visualize key performance metrics such as revenue, units sold, and top-selling brands.
@@ -13,7 +15,8 @@ To build an interactive dashboard that supports business decision-making.
 
 To provide actionable insights that help improve sales strategy.
 
-#📊 Key Insights
+## 📊Key Insights
+
 Top-performing brands contribute the majority of revenue, highlighting strong brand influence.
 
 Sales show clear seasonality, with peaks in festive months.
@@ -22,7 +25,7 @@ Region-wise performance reveals which areas require marketing attention.
 
 The dashboard helps track KPIs like Total Revenue, Total Transaction, Total Units Sold, Average Customer Ratings
 
-#About the Data
+## About the Data
 
 Transaction Details
 
@@ -55,7 +58,9 @@ Payment & Experience
 Payment Method – Mode of payment (e.g., UPI, Cash, Credit Card)
 
 Customer Ratings – Rating given by the customer after purchase (scale typically 1–5), representing satisfaction level
-#🛠️Tools & Skills Used
+
+## 🛠️Tools & Skills Used
+
 Power BI (Data Modeling, DAX, Visualization)
 
 Power Query for data cleaning
@@ -66,7 +71,7 @@ Interactive Dashboard Design
 
 Domain: Sales Analytics
 
-#🚀How to Use
+## 🚀How to Use
 
 1.Clone the repository
 
@@ -79,5 +84,5 @@ Domain: Sales Analytics
 │── 📄 README.md (this file)
 │── 📁 Screenshots/ (optional dashboard screenshots)
 
-$📈Results
+## 📈Results
 This dashboard provides a complete view of sales performance, helping businesses strategize pricing, marketing, and inventory decisions.
