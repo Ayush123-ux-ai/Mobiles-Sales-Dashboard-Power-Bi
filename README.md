@@ -63,9 +63,7 @@ Customer Ratings - Rating given by the customer after purchase (scale typically 
 
 ## 🛠️Tools & Skills Used
 
-Power BI (Data Modeling, DAX, Visualization)
-
-Power Query for data cleaning
+Power BI (Visualization)
 
 Data Transformation (Handling missing values,Column Formatting)
 
