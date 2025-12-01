@@ -79,7 +79,7 @@ Domain: Sales Analytics
 
 3.Explore the interactive dashboard and filters
 
-📁 Mobile-Sales-Dashboard/
+## 📁Mobile-Sales-Dashboard/
 │-- 📄 Mobile Sales Dashboard.pbix
 │── 📄 README.md (this file)
 │── 📁 Screenshots/ (optional dashboard screenshots)
